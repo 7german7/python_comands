@@ -1,7 +1,8 @@
-#********************************************************CONVERSIONES********************************************************
-
+# *******************************************************CONVERSIONES********************************************************
+# Algunas de las funcionalidades que nos ofreced Python son las conversiones, las cuales nos permiten modificar o cambiar el
+# tipo de dato que contiene una variable
 numero = 4
-print float(numero)
+print float(numero) # convertimos el valor de la variable numero a float
 print str(numero) # convertimos el valor de la variable numero a string (texto)
 
 lista_no_modificable = (1,2,3,4,5)
