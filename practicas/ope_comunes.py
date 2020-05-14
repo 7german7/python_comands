@@ -35,3 +35,19 @@ print map(str, lista)
 # redondeando numeros decimales y definiendo cuantos decimales debe tener
 precio = 10.78911534546
 print "precio: %f" % (round(precio, 4))
+
+# Generando rangos de una lista
+print range(5)
+
+# Sumando los elementos de un conjunto
+lista2 = [4,8,2]
+print "la suma es: %i" % (sum(lista2))
+
+# organizando un conjunto
+print sorted(lista2)
+
+# listando comandos que le podemos aplicar a X dato
+print dir(lista2)
+
+# consultar documentacion o informacion de un comando
+help(dir)
