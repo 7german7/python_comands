@@ -27,3 +27,7 @@ print type(decimal)
 print type(cadena)
 print type(lista)
 print type(tupla)
+
+# aplicar conversiones a conjuntos
+print lista
+print map(str, lista)
