@@ -4,4 +4,5 @@ Todas las librerias podemos importarlas con la palabra reservada "import", cada 
 ya que nos ofrecen funcionalidades extras que nos pueden ser utililes a la otra de crear nuestras aplicaciones.
 Algunas de estas librerias son las siguientes:
 
-sys => nos permite a utilizar la funcion "raw_input()", la cual nos permite ingresar datos a travez de la terminal de comandos 
+sys => nos permite a utilizar la funcion "raw_input()", la cual nos permite ingresar datos a travez de la terminal de comandos
+turtle => nos permite generar graficos
