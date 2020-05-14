@@ -31,3 +31,7 @@ print type(tupla)
 # aplicar conversiones a conjuntos
 print lista
 print map(str, lista)
+
+# redondeando numeros decimales y definiendo cuantos decimales debe tener
+precio = 10.78911534546
+print "precio: %f" % (round(precio, 4))
