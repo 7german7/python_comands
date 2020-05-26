@@ -6,3 +6,4 @@ Algunas de estas librerias son las siguientes:
 
 sys => nos permite a utilizar la funcion "raw_input()", la cual nos permite ingresar datos a travez de la terminal de comandos
 turtle => nos permite generar graficos
+random => nos proporciona metodos para seleccionar datos al azar/aleatorios.
