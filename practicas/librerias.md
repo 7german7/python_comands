@@ -1,9 +1,6 @@
-# Librerias de Python
+# Python Libraries
 
-Todas las librerias podemos importarlas con la palabra reservada "import", cada una de ella es de gran importancia
-ya que nos ofrecen funcionalidades extras que nos pueden ser utililes a la otra de crear nuestras aplicaciones.
-Algunas de estas librerias son las siguientes:
-
-sys => nos permite a utilizar la funcion "raw_input()", la cual nos permite ingresar datos a travez de la terminal de comandos
-turtle => nos permite generar graficos
-random => nos proporciona metodos para seleccionar datos al azar/aleatorios.
+- **sys**: Nos incluye la funcion "raw_input()", la cual nos permite *ingresar datos a travez de la terminal de comandos*. ( en Python 3.x no es necesaria y la funcion es input() )
+- **turtle**: Nos permite generar gráficos.
+- **random**: Nos proporciona metodos para generar *datos aleatorios*.
+- **scikit-learn**, **tensorflow**: Platzi utiliza Python para implementar Machine Learning. El equipo a cargo de eso, es el equipo de Data Science. Utilizan librerías como scikit-learn, tensorflow y modelos propios.
