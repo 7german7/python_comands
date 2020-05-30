@@ -11,7 +11,7 @@ def main():
     dibujo = turtle.Turtle()
     dibujo.setpos(0,-250)
     dibujo.color("yellow")
-    dibujo.pensize(2)
+    dibujo.pensize(10)
     dibujo.penup()
     dibujo.forward(130)
     dibujo.left(110)
