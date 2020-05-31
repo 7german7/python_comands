@@ -1,8 +1,7 @@
 # Numero Aleatorios
 
 # -*- coding: utf-8 -*-
-def run():
-    pass
+from plantilla2 import saluda
 
 if __name__ == "__main__":
-    run()
+    saluda()
